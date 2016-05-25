@@ -1,0 +1,2 @@
+# hadoop-ex
+Sample Exercise
